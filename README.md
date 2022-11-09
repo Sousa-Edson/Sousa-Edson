@@ -28,6 +28,7 @@ Here are some ideas to get you started:
     <img align="center" alt="ms-dos" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg">
    <img align="center" alt="atom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
    <img align="center" alt="androidstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+    <img align="center" alt="notion" height="30" width="40" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   
   
   ##
