@@ -1,7 +1,6 @@
 ### Ola 👋
 ## Eu sou Edson de Sousa
-
-Here are some ideas to get you started:
+ 
 
 - 🔭 Atualmente estou trabalhando como operador de empilhadeira.
 - 🌱 Atualmente estou aprendendo JAVA Web com Spring Boot e Microsoft sql server
