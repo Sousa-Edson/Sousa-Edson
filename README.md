@@ -3,9 +3,10 @@
  
 
 - 🔭 Atualmente estou trabalhando como operador de empilhadeira.
-- 🌱 Atualmente estou aprendendo JAVA Web com Spring Boot e Microsoft sql server
+- 👨‍🎓 Atualmente estou aprendendo JAVA Web com Spring Boot e Microsoft sql server
 - 👯 Procuro colaborar com projetos Open Source , seja com sugestões ou testes.
 - 🤔 Procuro ajuda com uma opotunidade de emprego na area de desenvolvimento de sistemas ou apps.
+- ⛲ Amo aprender sobre tecnologia e sei que ainda nem toquei a ponta do iceberg.
  
  <div align="center">
   <a href="https://github.com/Sousa-Edson">
