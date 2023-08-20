@@ -1,11 +1,18 @@
-### Ola 👋
-## Eu sou Edson de Sousa
- 
+# Olá 👋, Eu sou Edson de Sousa
 
-- 🔭 Sou formado em técnico de logitica e atualmente estou trabalhando como operador de empilhadeira.
-- 👨‍🎓 Estou atualmente estudando JAVA Web com Spring Boot e Microsoft sql server
-- 🤔 Procuro ajuda com uma opotunidade de emprego na area de desenvolvimento de sistemas ou apps.
-- ⛲ Amo aprender sobre tecnologia e tenho como hobby aprender e criar pequenas aplicações .
+## Sobre Mim
+
+- 🔭 Sou formado em Técnico de Logística e atualmente atuo como Operador de Empilhadeira.
+- 👨‍🎓 Tenho formação em Técnico de TI, com habilidades em desenvolvimento web e mobile utilizando Java.
+- 👨‍🎓 Possuo conhecimentos em Java Web com Spring Boot e desenvolvimento mobile com Android Studio.
+- 👨‍🎓 Também tenho experiência em bancos de dados Microsoft SQL Server e Postgres.
+- 🤔 Estou em busca de uma empolgante oportunidade de carreira na área de desenvolvimento de sistemas ou aplicativos.
+- 🚀 Minha paixão por criar soluções inovadoras e meu comprometimento em aprimorar minhas habilidades me tornam um candidato entusiasmado.
+- 🤝 Estou animado para contribuir com minha criatividade e conhecimento técnico para uma equipe dinâmica e colaborativa.
+- 💡 Acredito que, juntos, podemos transformar desafios em conquistas extraordinárias.
+- ⛲ Tenho um grande interesse em aprender sobre tecnologia e como hobby gosto de explorar e desenvolver pequenas aplicações.
+
+
  
  <div align="center">
   <a href="https://github.com/Sousa-Edson">
