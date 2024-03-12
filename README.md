@@ -32,11 +32,11 @@
  <a href="https://github.com/Sousa-Edson/apontamentoSwing">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sousa-Edson&repo=apontamentoSwing&bg_color=333&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 </a>
+ <a href="https://sousa-edson.github.io/crud-angular/">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sousa-Edson&repo=crud-angular&bg_color=333&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+</a>
  <a href="https://sousa-edson.github.io/StockManagementAPI/">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sousa-Edson&repo=StockManagementAPI&bg_color=333&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-</a>
-  <a href="https://sousa-edson.github.io/crud-angular/">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sousa-Edson&repo=crud-angular&bg_color=333&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 </a>
 </div>
  
