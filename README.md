@@ -25,7 +25,7 @@
   
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display:inline_block"><br>
 <a href="https://sousa-edson.github.io/portfolio/">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sousa-Edson&repo=portfolio&bg_color=363636&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
  </a>
