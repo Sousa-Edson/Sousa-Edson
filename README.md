@@ -25,18 +25,18 @@
   
 </div>
 
-<div style="display: flex; flex-direction: column; gap: 5px;">
-  <a href="https://sousa-edson.github.io/portfolio/"  >
-    <img height="160em"  width="460em"   src="https://github-readme-stats.vercel.app/api/pin/?username=Sousa-Edson&repo=portfolio&bg_color=363636&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
+  <a href="https://sousa-edson.github.io/portfolio/" style="flex: 1 1 48%; max-width: 48%; display: flex; flex-direction: column; align-items: stretch;">
+    <img height="160em" width="460em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sousa-Edson&repo=portfolio&bg_color=363636&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
   </a>
-  <a href="https://github.com/Sousa-Edson/apontamentoSwing"  >
-    <img height="160em" width="460em"   src="https://github-readme-stats.vercel.app/api/pin/?username=Sousa-Edson&repo=apontamentoSwing&bg_color=333&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <a href="https://github.com/Sousa-Edson/apontamentoSwing" style="flex: 1 1 48%; max-width: 48%; display: flex; flex-direction: column; align-items: stretch;">
+    <img height="160em" width="460em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sousa-Edson&repo=apontamentoSwing&bg_color=333&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
   </a>
-  <a href="https://sousa-edson.github.io/crud-angular/"  >
-    <img height="160em" width="460em"   src="https://github-readme-stats.vercel.app/api/pin/?username=Sousa-Edson&repo=crud-angular&bg_color=333&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <a href="https://sousa-edson.github.io/crud-angular/" style="flex: 1 1 48%; max-width: 48%; display: flex; flex-direction: column; align-items: stretch;">
+    <img height="160em" width="460em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sousa-Edson&repo=crud-angular&bg_color=333&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
   </a>
-  <a href="https://sousa-edson.github.io/StockManagementAPI/"  >
-    <img height="160em" width="460em"   src="https://github-readme-stats.vercel.app/api/pin/?username=Sousa-Edson&repo=StockManagementAPI&bg_color=333&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <a href="https://sousa-edson.github.io/StockManagementAPI/" style="flex: 1 1 48%; max-width: 48%; display: flex; flex-direction: column; align-items: stretch;">
+    <img height="160em" width="460em" src="https://github-readme-stats.vercel.app/api/pin/?username=Sousa-Edson&repo=StockManagementAPI&bg_color=333&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
   </a>
 </div>
 
