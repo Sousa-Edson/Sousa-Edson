@@ -1,16 +1,22 @@
-# Olá 👋, Eu sou Edson de Sousa
+# 👋 Olá, eu sou Edson de Sousa
 
-## Sobre Mim
+## 📌 Sobre Mim
 
-- 🔭 Sou formado em Técnico de Logística e atualmente atuo como Operador de Empilhadeira.
-- 👨‍🎓 Tenho formação em Técnico de TI, com habilidades em desenvolvimento web e mobile utilizando Java.
-- 👨‍🎓 Possuo conhecimentos em Java Web com Spring Boot e desenvolvimento mobile com Android Studio.
-- 👨‍🎓 Também tenho experiência em bancos de dados Microsoft SQL Server e Postgres.
-- 🚀 Estou em busca de uma empolgante oportunidade de carreira na área de desenvolvimento de sistemas ou aplicativos.
-- 🚀 Minha paixão por criar soluções inovadoras e meu comprometimento em aprimorar minhas habilidades me tornam um candidato entusiasmado.
-- 🤝 Estou animado para contribuir com minha criatividade e conhecimento técnico para uma equipe dinâmica e colaborativa.
-- 💡 Acredito que, juntos, podemos transformar desafios em conquistas extraordinárias.
-- ⛲ Tenho um grande interesse em aprender sobre tecnologia e como hobby gosto de explorar e desenvolver pequenas aplicações.
+- 🎓 Sou formado pelo **Instituto Técnico de Barueri (ITB)** nos cursos técnicos de **Logística** e **Informática**.
+- 💼 Atualmente trabalho como **desenvolvedor Java backend**, ainda caminhando e aprendendo na area.
+- 🚀 Tenho paixão por desenvolver sistemas utilizando **Java com Spring Boot**, explorando ao máximo os recursos da linguagem e do framework.
+- 🌐 Estudo **Angular** e **Flutter** para expandir minhas habilidades também para o desenvolvimento frontend e mobile.
+- 🛢️ Trabalho frequentemente com bancos de dados **Sql** e, em projetos pessoais, utilizo também o **MongoDB**.
+- 📱 Tenho experiência em **desenvolvimento mobile com Android Studio** e sólidos conhecimentos em **Java Web** e **APIs REST**.
+- 🔍 Estou em busca de uma nova e empolgante oportunidade na área de **desenvolvimento de sistemas ou aplicativos**, onde eu possa crescer e contribuir com soluções inovadoras.
+- 🤝 Sou comprometido com o aprendizado contínuo, gosto de colaborar em equipe e busco sempre aprimorar minhas habilidades técnicas.
+- 💡 Acredito no poder da tecnologia para transformar ideias em soluções reais e impactar positivamente a vida das pessoas.
+- 🚀 Sonhar é o primeiro passo, construir é o que transforma.
+
+---
+
+📫 Vamos conversar? Estou aberto a novas conexões e oportunidades!
+
 
  <div align="center">
  <br>
